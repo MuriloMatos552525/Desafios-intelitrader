@@ -13,7 +13,7 @@ A aplicação é **Console** e apresenta um **menu** que permite escolher qual d
 
 1. **Clonar** este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/DesafiosIntelitrader.git
+   git clone https://github.com/MuriloMatos552525/DesafiosIntelitrader.git
    cd DesafiosIntelitrader
    ```
 
